@@ -1,4 +1,11 @@
-### Hi there 👋
+## Hi there 👋
+
+### Timeline
+
+2024/9/17： 🎉 Released **LGTM Factory （β）**
+> 📦Free & Open-Source LGTM Image Generator👀
+
+[![LGTM Factory](https://lgtm-factory.pages.dev/api/v1/lgtm-images?theme=hot-coffee&text=Check+here+%F0%9F%90%B8&emoji=%F0%9F%93%A6&color=%23fcd34d)](https://lgtm-factory.pages.dev)
 
 <!--
 **kazzyfrog/kazzyfrog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
