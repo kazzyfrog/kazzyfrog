@@ -1,6 +1,11 @@
-### Hi there 👋
+<p align="center">
+  <a href="https://lgtm-factory.pages.dev">
+    <img src="https://lgtm-factory.pages.dev/api/v1/lgtm-images?theme=hot-coffee&text=Hi+there+%3B%29&emoji=%F0%9F%93%A6&color=%23fcd34d">
+  </a>
+</p>
 
 <!--
+### Hi there 👋
 **kazzyfrog/kazzyfrog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
