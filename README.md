@@ -1,4 +1,4 @@
-# Hi there 👋 I'm kazzyfrog
+# Hi there 👋 I'm [Your Name]
 
 ## 🚀 About
 
