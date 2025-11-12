@@ -1,22 +1,19 @@
+# Hi there 👋 I'm kazzyfrog
 
-<p align="center">
-  <a href="https://lgtm-factory.pages.dev">
-    <img src="https://lgtm-factory.pages.dev/api/v1/lgtm-images?theme=hot-coffee&text=Hi+there+%3B%29&emoji=%F0%9F%93%A6&color=%23fcd34d">
-  </a>
-</p>
+## 🚀 About
 
-<!--
-### Hi there 👋
-**kazzyfrog/kazzyfrog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 現在学習中: [学んでいる技術を書く（例：React, TypeScript）]
+- 👨‍💻 直近の目標: [あなたの目標を書く]
+- 📝 定期的に TIL を更新しています
+- 🔗 SNS やブログなどのリンクから繋がりましょう！
 
-Here are some ideas to get you started:
+## 🛠️ Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+
+---
+
+💡 Happy Hacking;)
